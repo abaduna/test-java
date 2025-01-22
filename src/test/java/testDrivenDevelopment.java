@@ -7,15 +7,7 @@ import java.util.List;
 
 public class testDrivenDevelopment {
 
-    /*
-    private FizzBuzz game
-    *@Before
-    * public void befere(){
-    * game = new FizzBuss
-    * }
-    *
-    *
-    * */
+
     @Test
     public void shouldReturnNunbers(){
        List<String> numberList = TTD.pshisAndBus();
